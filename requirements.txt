@@ -1,7 +1,0 @@
-astropy==6.0.0
-matplotlib==3.7.2
-numpy==1.24.4
-photutils==1.10.0
-scipy==1.10.1
-ccdproc==2.4.2
-reporject==0.13.0
