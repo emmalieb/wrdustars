@@ -1,14 +1,14 @@
 # WRDustERS Repository
 This repository serves as a home for all code on dust-producing Wolf-Rayet binary stars created by the WRDustERS Team. You will also find here a list of all relevent publications from this team. 
 
-The repository is structured into the following branches:
+The repository is structured into the following folders:
 - jwst/miri: houses code for image reduction of JWST MIRI FITS images. This includes background and PSF subtractions.
 - jwst/niriss: houses code for running the JWST pipeline and data reduction on Aperture Masking Interferometry(AMI) from JWSt NIRISS.
 - modeling: houses code for geometric modeling of WR binaries to compare with JWST MIRI images.
 
 Ongoing Additions: 
-- to add dust temperature modeling to modeling branch.
-- to add line profile analysis to jwst/miri branch.
+- to add dust temperature modeling to modeling folder.
+- to add line profile analysis to jwst/miri folder.
 - to add .bib file of all WRDustERS papers. 
 
 WRDustERS Team Members:
