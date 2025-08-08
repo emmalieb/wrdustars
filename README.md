@@ -1,5 +1,4 @@
 # WRDustERS Repository
-
 This repository serves as a home for all code on dust-producing Wolf-Rayet binary stars created by the WRDustERS Team. You will also find here a list of all relevent publications from this team. 
 
 The repository is structured into the following branches:
