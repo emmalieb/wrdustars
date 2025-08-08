@@ -7,7 +7,7 @@ The repository is structured into the following folders:
 - modeling: houses code for geometric modeling of WR binaries to compare with JWST MIRI images.
 
 Ongoing Additions: 
-- to add dust temperature modeling to modeling folder.
+- to add dust temperature analysis to jwst_miri folder.
 - to add line profile analysis to jwst_miri folder.
 - to add .bib file of all WRDustERS papers. 
 
