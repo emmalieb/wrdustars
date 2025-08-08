@@ -1,6 +1,6 @@
 # WRDustERS Repository
 
-This repo serves as a one-stop-shop for code and literature on dust-producing Wolf-Rayet binary stars. All code and papers found here were written/contributed to by members of the WRDustERS Team.
+This repository serves as a home for all code on dust-producing Wolf-Rayet binary stars created by the WRDustERS Team. You will also find here a list of all relevent publications from this team. 
 
 WRDustERS Team Members:
 
