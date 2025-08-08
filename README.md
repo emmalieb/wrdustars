@@ -4,7 +4,7 @@ This repository serves as a home for all code on dust-producing Wolf-Rayet binar
 The repository is structured into the following folders:
 - jwst_miri: houses code for image reduction of JWST MIRI FITS images. This includes background and PSF subtractions.
 - jwst_niriss: houses code for running the JWST pipeline and data reduction on Aperture Masking Interferometry(AMI) from JWSt NIRISS.
-- modeling: houses code for geometric modeling of WR binaries to compare with JWST MIRI images.
+- modeling: houses code for geometric modeling from Xenomorph (https://ryanwhite1.github.io/xenomorph/) of WR binaries to compare with JWST MIRI images.
 
 Ongoing Additions: 
 - to add dust temperature analysis to jwst_miri folder.
