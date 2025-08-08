@@ -8,7 +8,7 @@ The repository is structured into the following folders:
 
 Ongoing Additions: 
 - to add dust temperature modeling to modeling folder.
-- to add line profile analysis to jwst/miri folder.
+- to add line profile analysis to jwst_miri folder.
 - to add .bib file of all WRDustERS papers. 
 
 WRDustERS Team Members:
