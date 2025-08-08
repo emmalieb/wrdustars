@@ -1,0 +1,13 @@
+matplotlib
+pyyaml
+healpy
+git+https://github.com/spacetelescope/mirage@a813b2f27a863a280a71a542df5a2f5936f5e85a
+jwst-gtvt
+jwst
+webbpsf
+stsynphot
+uncertainties
+munch
+astroquery
+pandas
+termcolor
