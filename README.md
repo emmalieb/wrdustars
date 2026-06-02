@@ -71,3 +71,4 @@ WRDustERS Team Members:
     Kotomi Taniguchi (NAOJ)
     Andreas Sander (Heidelberg)
     Ryan White (Macquarie University)
+    Elizabeth Tarantino (STScI)
